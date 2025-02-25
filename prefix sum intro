@@ -1,6 +1,0 @@
-Prefix sum : 
-
-prefixSum[0] = arr[0]
-for(int i=1;i<n;i++){
-    prefixSum[i]= arr[i-1]+ arr[i];
-}
